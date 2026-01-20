@@ -14,10 +14,16 @@ The core components of this workshop are:
 
 By the end, participants will have more appreciation for their digital creations and a more strategic plan for organizing their digital life.
 
-Before beginning the workshop, check out [[How to use this workshop]] as it gives a breakdown on how you might get started with the workshop.
+Before beginning the workshop, check out [How to use this workshop](Howtousethisworkshop.md) as it gives a breakdown on how you might get started with the workshop.
 
 Afterwards, dive into the workshop.
 
-Check out the [[Resources]] for some helpful terms and definitions, some sample files to practice with, and some sources for taking a deeper dive into workshop topics.
+Check out the [Resources](Resources.md) for some helpful terms and definitions, some sample files to practice with, and some sources for taking a deeper dive into workshop topics.
 
 For specifics around the creation of this workshop and how to give feedback, check out the [About](About.md) page.
+
+Modules go as follows:
+[Reflection](Reflection.md)
+[Digital Ecosystems](DigitalEcosystems.md)
+[Building a System](Buildingasystem.md)
+[Sustainable Habits](SustainableHabits.md)
